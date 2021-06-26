@@ -1,3 +1,6 @@
+CFR: coronary flow reverse 冠脉血流储备： 冠脉最大血流量(hyperemia情况下, 添加ATP)和静息血流量只比， 
+IMR: index of microcirculatory resistance,  微循环阻力系数， 通过温度稀释法测量出冠脉血流和微循环两端压力阶差， 除以血流速度
+ffr: functional flow reserve 血流储备分数, 通过测量最大血流(充血)时狭窄病变远端的压力(导丝压力)和近端的压力(主动脉压力)
 CFD: (计算流体动力学, computational fluid dynamics)
 CAD: Coronary artery disease 冠状动脉疾病
 CCTA: coronary computed tomography angiography 
