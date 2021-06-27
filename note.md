@@ -54,4 +54,8 @@ Rather than specifying pressure or flow at a boundary, an add- itional, lower-or
 
 ## CFR IMR FFR的关系
 	CFR反映**心外膜血管和微循环的整体情况**,  IMR特异性反映冠脉微循环的情况。 FFR is a validated, reproducible measurement of relative CFR
->>>>>>> e64f7627d7e75ec37a0a90cdf5a86be1a0d8ccb9
+
+
+
+
+
