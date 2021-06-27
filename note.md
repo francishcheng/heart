@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # [Computational fluid dynamics modelling in cardiovascular medicine](https://heart.bmj.com/content/heartjnl/102/1/18.full.pdf)
 	- Models based upon coronary angiography (CT /invasive) to compute physiological coronary lesion significance less invasively(aka VFFR, V for virtual(computed)),  
 	- Widened access to the benefits of physiological lesion assessment; vFFR lacks the practical limitations that restrict use of the invasive technique. Virtual stenting enables planning and selection of optimal treatment strategy
@@ -38,7 +37,7 @@ Rather than specifying pressure or flow at a boundary, an add- itional, lower-or
 ## FFR
 ### FFR
 	FFR 血流储备分数(fractional flow reserve) 评估冠状动脉狭窄严重程度的技术,由CCA检查得出（通过测量最大血流(充血)时狭窄病变远端的压力(导丝压力)和近端的压力(主动脉压力)，并计算压力比，得出结果为通过病变的血流比例，即为FFR数值, 正常值为1，目前认为\<0.8 提示病变可引起心肌缺血） 
-### CFR
+### CT-FFR
 
 	CT-FFR (Computed Tomography derived Fractional Flow Reserve)**解剖狭窄和功能狭窄综合评估**, 它利用CCTA提供的血管狭窄程度等数据信息模拟计算出各病变的FFR数值，从解剖和功能两个方面综合评估冠状动脉狭窄程度, **无创伤**
 ## IMR
@@ -59,3 +58,5 @@ Rather than specifying pressure or flow at a boundary, an add- itional, lower-or
 
 
 
+## MBF
+心肌血流
