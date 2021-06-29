@@ -4,6 +4,8 @@ ffr: functional flow reserve 血流储备分数, 通过测量最大血流(充血
 CFD: (计算流体动力学, computational fluid dynamics)
 CAD: Coronary artery disease 冠状动脉疾病
 CCTA: coronary computed tomography angiography 
+MCE: myocardial constrast echocardiography 造影超声心动图
+
 myocardial: 心肌
 Mass: 质量
 angiogram: 造影
@@ -26,8 +28,11 @@ lesion： 损害
 endoluminal: 脉管内膜
 systolic: 收缩压
 diastolic: 舒张压
-
 sensitivity: 敏感性
 灵敏度（Sensitivity，也称为真阳性率、召回率（Recall）[2] ）是指实际为阳性的样本中，判断为阳性的比例（例如真正有生病的人中，被判断为有生病者的比例），计算方式是真阳性除以真阳性+假阴性（实际为阳性，但判断为阴性）的比值
 specificity: 特异性
 特异度（Specificity，也称为真阴性率）是指实际为阴性的样本中，判断为阴性的比例（例如真正未生病的人中，被医院判断为未生病者的比例），计算方式是真阴性除以真阴性+假阳性（实际为阴性，但判断为阳性）的比值
+
+
+
+
